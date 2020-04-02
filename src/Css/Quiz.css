@@ -1,0 +1,35 @@
+.containerall {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-left: -230px;
+  width: 1200px;
+  margin-top: 30px;
+}
+
+header {
+  height: 80px;
+  background-color: #23272a;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.19);
+  margin-bottom: 50px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.titleQuiz {
+  color: green;
+  font-size: 50px;
+  text-align: center;
+  color: grey;
+}
+
+.shadowsforall {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+footer {
+  height: 50px;
+  background-color: #23272a;
+  border-top: 0;
+  margin-top: 30px;
+}

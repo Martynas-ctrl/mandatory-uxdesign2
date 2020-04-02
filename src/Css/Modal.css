@@ -1,0 +1,59 @@
+#BtnsubmitQuiz {
+  position: absolute;
+  right: 850px;
+  border-radius: 50px;
+  border: 2px solid grey;
+  background-color: #23272a;
+  color: grey;
+}
+
+#BtnsubmitQuiz:hover {
+  position: absolute;
+  right: 850px;
+  box-shadow: none; 
+  color: #0dec32;
+}
+
+#buttonModal {
+  border-radius: 50px;
+  border: 2px solid grey;
+  background-color: #23272a;
+  color: grey;
+  position: relative;
+  right: 26px;
+}
+
+#buttonModal:hover {
+  color: #0dec32;
+  box-shadow: none;
+}
+
+.congratsMsg {
+  color:grey;
+  text-align: center;
+}
+
+.correctAnswerMsg {
+  color:grey;
+  margin-left: 30px;
+}
+
+.modalContainer {
+  background-color: #23272a;
+}
+
+.modalContainers {
+  border-radius: 50%;
+}
+
+.modalFooterContainer {
+  background-color: #23272a;
+}
+
+.modal-header .close {
+  box-shadow: none;
+}
+
+.modal-header .close:hover {
+  color: #0dec32;
+}
