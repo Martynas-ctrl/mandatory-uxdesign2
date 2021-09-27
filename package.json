@@ -1,4 +1,5 @@
 {
+  "homepage": "https://martynas-ctrl.github.io/Github-Pages-Portfolio/",
   "name": "mandatory-uxdesign2",
   "version": "0.1.0",
   "private": true,
@@ -19,6 +20,8 @@
     "router": "^1.3.5"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -41,6 +44,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^3.2.3",
     "prettier": "^2.0.2"
   },
   "prettier": {

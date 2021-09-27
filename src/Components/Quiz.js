@@ -119,7 +119,9 @@ class Quiz extends Component {
       }
       return shuffle;
     }
-  
+    console.log(correctAnswersArray);
+    console.log('Client answers:' + this.state.clientAnswers);
+    console.log('Resultat:'  + this.state.result);
     return (
       <>
         {this.state.return ? <Redirect to='/' /> : null}
