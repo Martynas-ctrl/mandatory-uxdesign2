@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Github-Pages-Portfolio/static/css/main.a878d57c.chunk.css",
-    "main.js": "/Github-Pages-Portfolio/static/js/main.b22dbc71.chunk.js",
-    "main.js.map": "/Github-Pages-Portfolio/static/js/main.b22dbc71.chunk.js.map",
-    "runtime-main.js": "/Github-Pages-Portfolio/static/js/runtime-main.edb39ef5.js",
-    "runtime-main.js.map": "/Github-Pages-Portfolio/static/js/runtime-main.edb39ef5.js.map",
-    "static/css/2.de424728.chunk.css": "/Github-Pages-Portfolio/static/css/2.de424728.chunk.css",
-    "static/js/2.92eac9a1.chunk.js": "/Github-Pages-Portfolio/static/js/2.92eac9a1.chunk.js",
-    "static/js/2.92eac9a1.chunk.js.map": "/Github-Pages-Portfolio/static/js/2.92eac9a1.chunk.js.map",
-    "index.html": "/Github-Pages-Portfolio/index.html",
-    "precache-manifest.62b8c19ec5e430df31b6614ad823888f.js": "/Github-Pages-Portfolio/precache-manifest.62b8c19ec5e430df31b6614ad823888f.js",
-    "service-worker.js": "/Github-Pages-Portfolio/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/Github-Pages-Portfolio/static/css/2.de424728.chunk.css.map",
-    "static/css/main.a878d57c.chunk.css.map": "/Github-Pages-Portfolio/static/css/main.a878d57c.chunk.css.map",
-    "static/js/2.92eac9a1.chunk.js.LICENSE.txt": "/Github-Pages-Portfolio/static/js/2.92eac9a1.chunk.js.LICENSE.txt",
-    "static/media/Welcome.svg": "/Github-Pages-Portfolio/static/media/Welcome.d5e54d45.svg"
+    "main.css": "/Martynas-ctrl/mandatory-uxdesign2/static/css/main.a878d57c.chunk.css",
+    "main.js": "/Martynas-ctrl/mandatory-uxdesign2/static/js/main.db6d5f74.chunk.js",
+    "main.js.map": "/Martynas-ctrl/mandatory-uxdesign2/static/js/main.db6d5f74.chunk.js.map",
+    "runtime-main.js": "/Martynas-ctrl/mandatory-uxdesign2/static/js/runtime-main.51487988.js",
+    "runtime-main.js.map": "/Martynas-ctrl/mandatory-uxdesign2/static/js/runtime-main.51487988.js.map",
+    "static/css/2.de424728.chunk.css": "/Martynas-ctrl/mandatory-uxdesign2/static/css/2.de424728.chunk.css",
+    "static/js/2.92eac9a1.chunk.js": "/Martynas-ctrl/mandatory-uxdesign2/static/js/2.92eac9a1.chunk.js",
+    "static/js/2.92eac9a1.chunk.js.map": "/Martynas-ctrl/mandatory-uxdesign2/static/js/2.92eac9a1.chunk.js.map",
+    "index.html": "/Martynas-ctrl/mandatory-uxdesign2/index.html",
+    "precache-manifest.8d97e0624aed69e67faec776cc834ec1.js": "/Martynas-ctrl/mandatory-uxdesign2/precache-manifest.8d97e0624aed69e67faec776cc834ec1.js",
+    "service-worker.js": "/Martynas-ctrl/mandatory-uxdesign2/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/Martynas-ctrl/mandatory-uxdesign2/static/css/2.de424728.chunk.css.map",
+    "static/css/main.a878d57c.chunk.css.map": "/Martynas-ctrl/mandatory-uxdesign2/static/css/main.a878d57c.chunk.css.map",
+    "static/js/2.92eac9a1.chunk.js.LICENSE.txt": "/Martynas-ctrl/mandatory-uxdesign2/static/js/2.92eac9a1.chunk.js.LICENSE.txt",
+    "static/media/Welcome.svg": "/Martynas-ctrl/mandatory-uxdesign2/static/media/Welcome.d5e54d45.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.edb39ef5.js",
+    "static/js/runtime-main.51487988.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.92eac9a1.chunk.js",
     "static/css/main.a878d57c.chunk.css",
-    "static/js/main.b22dbc71.chunk.js"
+    "static/js/main.db6d5f74.chunk.js"
   ]
 }
