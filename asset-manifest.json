@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Github-Pages-Portfolio/static/css/main.a878d57c.chunk.css",
+    "main.js": "/Github-Pages-Portfolio/static/js/main.b22dbc71.chunk.js",
+    "main.js.map": "/Github-Pages-Portfolio/static/js/main.b22dbc71.chunk.js.map",
+    "runtime-main.js": "/Github-Pages-Portfolio/static/js/runtime-main.edb39ef5.js",
+    "runtime-main.js.map": "/Github-Pages-Portfolio/static/js/runtime-main.edb39ef5.js.map",
+    "static/css/2.de424728.chunk.css": "/Github-Pages-Portfolio/static/css/2.de424728.chunk.css",
+    "static/js/2.92eac9a1.chunk.js": "/Github-Pages-Portfolio/static/js/2.92eac9a1.chunk.js",
+    "static/js/2.92eac9a1.chunk.js.map": "/Github-Pages-Portfolio/static/js/2.92eac9a1.chunk.js.map",
+    "index.html": "/Github-Pages-Portfolio/index.html",
+    "precache-manifest.62b8c19ec5e430df31b6614ad823888f.js": "/Github-Pages-Portfolio/precache-manifest.62b8c19ec5e430df31b6614ad823888f.js",
+    "service-worker.js": "/Github-Pages-Portfolio/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/Github-Pages-Portfolio/static/css/2.de424728.chunk.css.map",
+    "static/css/main.a878d57c.chunk.css.map": "/Github-Pages-Portfolio/static/css/main.a878d57c.chunk.css.map",
+    "static/js/2.92eac9a1.chunk.js.LICENSE.txt": "/Github-Pages-Portfolio/static/js/2.92eac9a1.chunk.js.LICENSE.txt",
+    "static/media/Welcome.svg": "/Github-Pages-Portfolio/static/media/Welcome.d5e54d45.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edb39ef5.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.92eac9a1.chunk.js",
+    "static/css/main.a878d57c.chunk.css",
+    "static/js/main.b22dbc71.chunk.js"
+  ]
+}
